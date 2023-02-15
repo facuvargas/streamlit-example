@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import re
 
-pdf_dir = r"C:\Users\facundov\OneDrive - Inter-American Development Bank Group\Documentos\PDF"
+pdf_dir = r""
 
 
 # Función para buscar las palabras clave en un archivo PDF
